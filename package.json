@@ -1,6 +1,6 @@
 {
   "name": "@npmtuanmap/ut-quas-amet-possimus",
-  "version": "2.7.89",
+  "version": "2.7.90",
   "description": " ",
   "main": "index.js",
   "author": "tuan149",
@@ -232,5 +232,5 @@
   "bugs": {
     "url": "https://github.com/npmtuanmap/ut-quas-amet-possimus/issues"
   },
-  "packageManager": "yarn@4.3.1"
+  "packageManager": "yarn@4.4.0"
 }
